@@ -7,3 +7,10 @@
 - Li, Xi, Aishi Zhang, and Yuchen Guo. "Are proactive employees more creative? The roles of multisource information exchange and social exchange-based employee-organization relationships." Personality and Individual Differences 170 (2021): 110484. 
 - Li, Xi, et al. "Causal Role of the Right Dorsolateral Prefrontal Cortex in Organizational Fairness Perception: Evidence From a Transcranial Direct Current Stimulation Study." Frontiers in Behavioral Neuroscience 14 (2020): 134. 
 - Zhang, Aishi, Xi Li, and Yuchen Guo. "Proactive Personality and Employee Creativity: A Moderated Mediation Model of Multisource Information Exchange and LMX." Frontiers in Psychology (2021): 2502. 
+
+# Working Paper
+- Guo Yuchen and Liang pinghan. “Budgets Rolling and Year-End Spending in China Evidence from a Quasi-Natural Experiment”.
+- Guo Yuchen, Huang Qilin and Liang pinghan. “The change of president and the distortion of university funds”.
+- Liang pinghan, Guo Yuchen and Li Chenglin. “Fiscal pressure and penalty economy: Evidence based on traffic surveillance data in China”.
+
+- Ye Yongwei, Guo Yuchen. “Controlling shareholder share pledging and corporate social responsibility”. 
