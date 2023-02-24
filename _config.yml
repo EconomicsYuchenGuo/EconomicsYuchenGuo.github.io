@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Guo Yuchen"
 description              : "My name is Yuchen Guo, this is my cv"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "Louisfinne/louisfinne.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "gyc110@m.scnu.edu.cn"
-  tel:(86)13217967676              : "(86)13217967676"
+  tel:             : "(86)13217967676"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Louisfinne"
   google_plus      :
   keybase          :
   instagram        :
