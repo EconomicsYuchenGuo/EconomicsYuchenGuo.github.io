@@ -1,6 +1,6 @@
 # 💬 Research Experience
 
-## Jan. 2019- Jan. 2021
+## Jan. 2018- Jan. 2021
 I am a member of the Key Laboratory of Behavior and Science of South China Normal University, mainly engaged in the design of experiments, compilation of experimental procedures, and presiding over experiments. Organize, design or write more than 10 experimental apps and contact more than 1000 experimental subjects. Experimental APP file: [https://github.com/Louisfinne/Experiment-APP](https://github.com/Louisfinne/Experiment-APP)    
 
 ## Introduction to the Key Laboratory of Behavior and Science  
