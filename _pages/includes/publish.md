@@ -1,7 +1,7 @@
 # 📝 Publications
 
 - Dong, Zhiqiang, Yuchen Guo, and Jun Zhao. "How people respond to risk after being exposed to the risk of loss: An experimental study." *Journal of Behavioral and Experimental Economics* 97 (2022): 101845.  
-*Details*:This study examines the effect of prior risk exposure on subsequent risk-taking behaviors. We perform laboratory-based experiments to distinguish the effect of the risk environment per se from that of the realized outcome of events.  
+*Intro*:This study examines the effect of prior risk exposure on subsequent risk-taking behaviors. We perform laboratory-based experiments to distinguish the effect of the risk environment per se from that of the realized outcome of events.  
 
 - Dong, Zhiqiang, Yuchen Guo, and Jun Zhao. "Higher risk exposure in gains brings more risk-taking in losses: an experimental study." *Applied Economics Letters* (2023): 1-8.
 - The use and potential problems of government procurement data in China. *Industrial Economic Review* (2023)  *CSSCI*
