@@ -5,5 +5,6 @@ I am a member of the Key Laboratory of Behavior and Science of South China Norma
 
 ## Introduction to the Key Laboratory of Behavior and Science  
 It is an interdisciplinary collaborative innovation laboratory based on the provincial dominant key discipline of theoretical economics, supported by the first-class psychology discipline group in China, and integrated with interdisciplinary research forces. In January 2014, the laboratory was approved as the Key Laboratory of Philosophy and Social Sciences of Guangdong Province. The laboratory uses interdisciplinary knowledge, research methods and technical means such as economics, psychology and computer simulation technology to understand human economic behavior and its consequences.  
-Lab team members pose for this photo, taken in 2019:[http://best.scnu.edu.cn/a/20190101/190.html](http://best.scnu.edu.cn/a/20190101/190.html)
+
+Lab team members pose for a photo, taken in 2019:[http://best.scnu.edu.cn/a/20190101/190.html](http://best.scnu.edu.cn/a/20190101/190.html)
 
