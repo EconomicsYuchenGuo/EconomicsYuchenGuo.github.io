@@ -1,4 +1,4 @@
-# 💻 Research Experience
+# 💬 Research Experience
 
 ## Jan. 2022- Present 
 Research Assistant, School of Government, Sun Yat-sen University, Principal Investigator: Prof. Liang Pinghan 
