@@ -5,4 +5,4 @@
 
 - Ye Yongwei, Guo Yuchen. “Controlling shareholder share pledging and corporate social responsibility”.   
 - Liang pinghan, Guo Yuchen and Zhao Yulan. "Research on Influencing factors of local government building intelligent video surveillance system
--- Empirical analysis based on video surveillance technology"
+-- Empirical analysis based on video surveillance technology" CSSCI
