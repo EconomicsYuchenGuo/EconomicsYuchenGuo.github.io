@@ -5,6 +5,10 @@ Personal Website：[https://louisfinne.github.io/](https://louisfinne.github.io/
 Tel:(86)13217967676  
 E-mail: gyc110@m.scnu.edu.cn; guoych53@mail2.sysu.edu.cn  
   
+  **Research Field**  
+  Public Economics，   Behavioral and Experimental Economics
+  
+  
 **Education**  
 Sept.2021-  
 Doctoral Candidate in Public Administration &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                
