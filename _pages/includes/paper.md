@@ -6,6 +6,7 @@
 -- Empirical analysis based on video surveillance technology*"  
 # Working in Progress  
 - Liang pinghan, Guo Yuchen and Li Chenglin. “*Fiscal pressure and penalty economy: Evidence based on traffic surveillance data in China*”.  
-*Details*:The article uses data on surveillance equipment purchased by China's traffic police to explore whether local governments will install more surveillance equipment in order to generate revenue from fines, when hit by financial shocks.
+*Details*:The article uses data on surveillance equipment purchased by China's traffic police to explore whether local governments will install more surveillance equipment in order to generate revenue from fines, when hit by financial shocks.  
+
 - Guo Yuchen, Huang Qilin and Liang pinghan. “*The change of president and the distortion of university funds*”.
 - Ye Yongwei, Guo Yuchen. “*Controlling shareholder share pledging and corporate social responsibility*”. 
