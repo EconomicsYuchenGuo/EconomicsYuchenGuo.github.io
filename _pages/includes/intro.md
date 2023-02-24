@@ -20,4 +20,10 @@ Sept.2018-Jun.2021
   
   Sept.2014-Jun.2018  
   Bachelor of Computer Science  
-  Jiangxi University of Science and Technology
+  Jiangxi University of Science and Technology  
+    
+ **Database of Personal Collation**  
+ 1.Government Procurement Data in China (over 13 million observations)  
+ 2.Data of registered industrial and commercial enterprises in China  
+ 3.Court Decision Instrument in China
+    
