@@ -14,4 +14,5 @@ Sept.2018-Jun.2021
   South China Normal University  
   
   Sept.2014-Jun.2018  
-  Bachelor of Computer Science                            
+  Bachelor of Computer Science  
+  Jiangxi University of Science and Technology
