@@ -9,20 +9,20 @@ main:
 
 
   - title: "Working Paper"
-    url: "/#working-paper"
+    url: "/#-working-paper"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Research Experience"
-    url: "/#research-experience"
+    url: "/#-research-experience"
 
   # - title: "Educations"
   #  url: "/#-educations"
 
 
   - title: "Others"
-    url: "/#others"
+    url: "/#-others"
 
   #- title: "Invited Talks"
   #  url: "/#-invited-talks"
