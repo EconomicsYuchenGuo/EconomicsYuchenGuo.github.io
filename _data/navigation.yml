@@ -9,11 +9,23 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+
+  - title: "Working Paper"
+    url: "/#-working-paper"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
+
+
+  - title: "Skill"
+    url: "/#-skill"
+
+
+  - title: "Others"
+    url: "/#-Others"
 
   #- title: "Invited Talks"
   #  url: "/#-invited-talks"
