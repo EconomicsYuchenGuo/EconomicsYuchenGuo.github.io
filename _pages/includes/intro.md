@@ -14,14 +14,6 @@ Sept.2021-
 Doctoral Student in Public Administration &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                
 School of Government, Sun Yat-sen University, P.R. CHINA  
 
-Sept.2018-Jun.2021  
-  Master of Economics               
-  South China Normal University  
-  
-  Sept.2014-Jun.2018  
-  Bachelor of Science  
-  
-    
  **Database of Personal Collation**  
  1.Government Procurement Data in China (over 13 million contracts)  
  Details:We use a semi-supervised learning algorithm for text 
