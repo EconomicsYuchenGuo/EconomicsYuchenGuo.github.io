@@ -7,7 +7,9 @@ E-mail: gyc110@m.scnu.edu.cn; guoych53@mail2.sysu.edu.cn
   
   **Research Field**  
 Political Science and Government, Public Economics and Experimental Economics
-  
+
+  **Interested Research Topics** 
+Government Corruption, Historical Research, Personal Health and Development, Business Environment
   
 **Education**  
 Sept.2021-  
