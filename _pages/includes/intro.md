@@ -9,7 +9,7 @@ E-mail: yug053@ucsd.edu; guoych53@mail2.sysu.edu.cn
 Political Science and Government, Public Economics and Experimental Economics
 
   **Interested Research Topics** 
-Government Corruption, Organizational behavior, Management psychology， Historical Research, Personal Health and Development, Business Environment
+Government Corruption, Organizational behavior, Management psychology, Historical Research, Personal Health and Development, Business Environment
   
 **Education**  
 Sept.2014-June.2018  
