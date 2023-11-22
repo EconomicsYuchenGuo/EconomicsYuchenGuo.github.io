@@ -3,7 +3,7 @@
 **My name is Yuchen Guo（郭宇辰）**  
 Personal Website：[https://louisfinne.github.io/](https://louisfinne.github.io/)  
 Tel:(86)13217967676  
-E-mail: gyc110@m.scnu.edu.cn; guoych53@mail2.sysu.edu.cn  
+E-mail: yug053@ucsd.edu; guoych53@mail2.sysu.edu.cn  
   
   **Research Field**  
 Political Science and Government, Public Economics and Experimental Economics
