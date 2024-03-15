@@ -23,12 +23,12 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Guo Yuchen"
   avatar           : "images/avatar.jpg"
-  bio              : "Sun Yat-sen University, P.R. CHINA"
+  bio              : "UCSD"
   location         : "Guangzhou, China"
-  employer         : "Sun Yat-sen University, P.R. CHINA"
+  employer         : "CHINA"
   pubmed           : 
   #googlescholar   : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "gyc110@m.scnu.edu.cn"
+  email            : "yug053@ucsd.edu"
   #tel              : "(86)13217967676"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
