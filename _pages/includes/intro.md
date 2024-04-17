@@ -12,13 +12,9 @@ Political Science and Government, Public Economics and Experimental Economics
 Government Corruption, Organizational behavior, Management psychology, Historical Research, Personal Health and Development, Business Environment
   
 **Education**  
-Sept.2014-June.2018  
-Undergraduate student in Management &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                
-School of Government, Sun Yat-sen University, P.R. CHINA 
-
 Sept.2021- 
-PhD Candidate in Economics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-School of Global Policy and Strategy, UCSD
+PhD Candidate  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+School of Government, Sun Yat-sen University&nbsp; CHINA
 
  **Database of Personal Collation**  
  1.Government Procurement Data in China (over 13 million contracts)  
