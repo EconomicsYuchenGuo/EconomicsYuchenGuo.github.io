@@ -4,7 +4,6 @@
 - Interested in Climbing, Trail Running
 
 ## Meetings & Speeches
-- CRG Forum of University of Nottingham; 2023, Keynote Paper Report
 - Seminar organized by Shanghai Jiao Tong University; two thousand and twenty-three
 - Shanghai University of Finance and Economics "YES" China Youth Economist Seminar
 - Industrial Economy Seminar of Dongbei University of Finance and Economics
