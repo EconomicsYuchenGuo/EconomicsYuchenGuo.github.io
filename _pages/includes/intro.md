@@ -2,19 +2,23 @@
 
 **My name is Yuchen Guo（郭宇辰）**  
 Personal Website：[https://louisfinne.github.io/](https://louisfinne.github.io/)  
-Tel:(86)13217967676  
-E-mail: yug053@ucsd.edu; guoych53@mail2.sysu.edu.cn  
+Tel:(+86)13217967676  
+E-mail: guoych53@mail2.sysu.edu.cn; &nbsp;yug053@ucsd.edu 
   
   **Research Field**  
-Political Science and Government, Public Economics and Experimental Economics
+Public Economics,  Political Science and Government,  Experimental Economics
 
   **Interested Research Topics** 
-Government Corruption, Organizational behavior, Management psychology, Historical Research, Personal Health and Development, Business Environment
-  
+Fiscal Studies, Government behavior, Historical Economics
+
 **Education**  
 Sept.2021- 
 PhD Candidate  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 School of Government, Sun Yat-sen University&nbsp; CHINA
+
+Sept.2018-June.2021
+Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+School of Economics and Management, South China Normal University
 
  **Database of Personal Collation**  
  1.Government Procurement Data in China (over 13 million contracts)  
