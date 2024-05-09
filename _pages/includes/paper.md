@@ -15,7 +15,7 @@
 
 - Guo Yuchen. “*The requirement for fully open procurement: Evidence from a regression discontinuity design*”.
 
-# Working in Progress 
+# 🛠 Working in Progress 
 - Guo Yuchen and Ruixue Jia. “*Mandatory disclosure of procurement announcements: Evidence from a regression discontinuity design*”.
 - Ye Yongwei and Guo Yuchen. “*Controlling shareholder share pledging and corporate social responsibility*”.
 - Liang pinghan, Zhang Yichuan and Guo Yuchen. “*Unexpected results in traffic monitoring*”.
