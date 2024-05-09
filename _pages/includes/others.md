@@ -1,9 +1,9 @@
 
-# Others 
+# ⌘ Others 
 - Good at programming (I've written over 10 apps *https://github.com/Louisfinne/Experiment-APP*, a lot of experience in application and development of machine learning), Basketball
 - Interested in Climbing, Trail Running
 
-## Meetings & Speeches
+# 🎙 Meetings & Speeches
 - Seminar organized by Shanghai Jiao Tong University; two thousand and twenty-three
 - Shanghai University of Finance and Economics "YES" China Youth Economist Seminar
 - Industrial Economy Seminar of Dongbei University of Finance and Economics
@@ -12,7 +12,7 @@
 - The Fourth Environmental Technology and Economic Frontier Seminar of the Environmental and Development Research Center of the Academy of Social Sciences; two thousand and twenty
 - The First Experimental economics Conference on Economic Research; two thousand and nineteen
 
-## Language, Skills & Certifications   
+# 🧰 Language, Skills & Certifications   
 
 - IELTS: Overall (7.5) 
 - Mandarin (Native), English 
