@@ -15,7 +15,7 @@ Fiscal Studies, Government behavior, Historical Economics
 
 Sept.2023-
 Joint PhD program at the Department of Economics, University of California, San Diego  
-Co-Advisor: Ruixue Jia  
+***Co-Advisor: Ruixue Jia***  
 **（Funding from China Scholarship Council）**  
 
 Sept.2021- 
