@@ -2,5 +2,5 @@
 
 - IELTS: Overall (7.0) 
 - Cantonese (Native), Mandarin 
-- Stata, Python, ArcGIS, C, C++, C#, Matlab 
+- Python, C, C++, C#, Matlab, Stata, ArcGIS
 - Two Software Copyrights (Participant) 
