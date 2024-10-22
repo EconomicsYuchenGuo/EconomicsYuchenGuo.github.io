@@ -4,6 +4,7 @@
  *Intro*:We exploit more than 2.8 million government procurement contracts during 2014-2021, and develop a novel method to measure the quality of contract.Using the Budget Law reform in China as a quasi-natural experiment, this paper examines the causal impact of Use-it-or-lose-it budget rules on local governments year-end spending spikes.  
 
 - **Yuchen Guo, Matthew O. Jackson, and Ruixue Jia**. “*Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances*”. working paper, NBER.
+
 *Intro*:We examine how peers influence the allegiances of West Point cadets in the American Civil War. Specifically, we analyze how quasi-random variations in the proportion of cadets from northern (low-slave) states influenced the decisions of cadets in choosing which army to join. A higher proportion of classmates from low-slave states significantly increased the likelihood that cadets from high-slave states joined the Union Army, while almost all cadets from low-slave states joined the Union Army (if they decided to join the war). Additionally, the higher the fraction of the population that were slaves in a cadet’s home state the lower the likelihood that
 the cadet joined the Union and the lower the peer influence. We also examine how cadets’ decisions affected their military rank and career outcomes. Our results highlight the importance of peer influence in major life decisions, particularly at critical historical junctures.
 
