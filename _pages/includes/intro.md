@@ -3,7 +3,7 @@
 **My name is Yuchen Guo（郭宇辰）**  
 Personal Website：[https://economicsyuchenguo.github.io/](https://economicsyuchenguo.github.io/)  
 Tel:(+86)13217967676  
-E-mail: guoych53@mail2.sysu.edu.cn; &nbsp;yug053@ucsd.edu 
+E-mail: guoych53@gmail.com; &nbsp;guoych53@mail2.sysu.edu.cn; &nbsp;yug053@ucsd.edu 
   
   **Research Field**  
 Public Economics,  Political Science and Government,  Experimental Economics
