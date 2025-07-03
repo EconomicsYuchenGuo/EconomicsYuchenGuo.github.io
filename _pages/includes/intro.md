@@ -9,7 +9,7 @@ E-mail: guoych53@gmail.com; &nbsp;guoych53@mail2.sysu.edu.cn; &nbsp;yug053@ucsd.
 Public Economics,  Political Science and Government,  Experimental Economics
 
   **Interested Research Topics** 
-Fiscal Studies, Government behavior, Historical Economics
+Political Economy, Government behavior, Historical Economics
 
 **Education** 
 
@@ -18,16 +18,22 @@ Joint PhD program at the Department of Economics, University of California, San 
 ***Co-Advisor: Ruixue Jia***  
 **（Funding from China Scholarship Council）**  
 
-Sept.2021- 
-PhD Candidate  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sept.2021-June.2025 
+PhD  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 School of Government, Sun Yat-sen University&nbsp; CHINA
 
 Sept.2018-June.2021
 Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 School of Economics and Management, South China Normal University
 
+Sept. 2014–June 2018
+Bachelor
+Computer Science/Engineering Cost
+Jiangxi University of Science and Technology
+
+
  **Database of Personal Collation**  
- 1.Government Procurement Data in China (over 13 million contracts)  
+ 1.Government Procurement Data in China (over 17 million contracts)  
  Details:We use a semi-supervised learning algorithm for text 
 information extraction called Named Entity Recognition (NER) to extracts the key information, including information about bid inviter, agency, bid winning supplier, contract value, contract date, contract number, etc.  
 
