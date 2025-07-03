@@ -1,5 +1,6 @@
 # 📝 Publications
 
+- Liang, Pinghan, Xijie Li, and Yuchen Guo. "Local Governments and the Diffusion of Video Surveillance in China: Evidence from the Public Procurement Contracts." ***Journal of Chinese Political Science*** (2025): 1-27. **SSCI**
 - Dong, Zhiqiang, Yuchen Guo, and Jun Zhao. "How people respond to risk after being exposed to the risk of loss: An experimental study." ***Journal of Behavioral and Experimental Economics*** 97 (2022): 101845.   **SSCI**
 *Intro*:This paper examines the effect of prior risk exposure on subsequent risk-taking behaviors. We perform laboratory-based experiments to distinguish the effect of the risk environment per se from that of the realized outcome of events.  
 
