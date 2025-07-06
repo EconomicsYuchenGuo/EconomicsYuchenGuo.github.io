@@ -15,7 +15,5 @@
 
 # 🧰 Language, Skills & Certifications   
 
-- IELTS: Overall (7.5) 
-- Mandarin (Native), English 
-- Stata, Python, ArcGIS, C, C++, C#, Matlab 
-- Two Software Copyrights (Participant) 
+- English and Mandarin 
+- Python, C, C++, C#, Matlab, Stata, ArcGIS (Skilled in machine learning and image/text processing) 
