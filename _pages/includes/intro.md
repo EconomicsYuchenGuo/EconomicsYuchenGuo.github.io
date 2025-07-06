@@ -27,8 +27,7 @@ Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 School of Economics and Management, South China Normal University
 
 Sept. 2014–June 2018
-Bachelor
-Computer Science/Engineering Cost
+Bachelor &nbsp;&nbsp; 
 Jiangxi University of Science and Technology
 
 
