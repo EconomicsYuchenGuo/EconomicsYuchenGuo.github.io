@@ -8,7 +8,7 @@ E-mail: guoych53@gmail.com
   **Research Field**  
 Public Economics,  Political Science and Government,  Experimental Economics
 
-  **Interested Research Topics** 
+  **Interested Research Topics**  
 Political Economy, Government behavior, Historical Economics
 
 **Education** 
