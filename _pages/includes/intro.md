@@ -26,9 +26,9 @@ Sept.2018-June.2021
 Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 School of Economics and Management, South China Normal University
 
-<!-- Sept. 2014–June 2018
+Sept. 2014–June 2018
 Bachelor &nbsp;&nbsp; 
-Jiangxi University of Science and Technology-->
+Jiangxi University of Science and Technology
 
 
  **Database of Personal Collation**  
